@@ -1,6 +1,6 @@
-# anime_qouets
+# new_app
 
-A new Flutter application about animes.
+A new Flutter project.
 
 ## Getting Started
 
